@@ -1,7 +1,5 @@
 # Seaborn_Tutorial
 
-# Data Analysis Practice Repository
-
 This repository contains Jupyter notebooks for practicing data analysis using Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib. These notebooks include different levels of data analysis problems and visualizations.
 
 ## Repository Contents
